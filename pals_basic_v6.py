@@ -1,5 +1,5 @@
 # pals_basic_v6.py
-# 3γ 三角定位（新手风格；仅 numpy）
+# 3γ 三角定位（仅 numpy）
 # 关键：闭式几何改为“视角圆相交”（two-chord angle circles intersect）
 # 仍保留： (B) 6种 E↔R 映射；(A) 简单联合残差 Gauss–Newton 微调（可关/步数很少）
 # 运行：python pals_basic_v6.py
